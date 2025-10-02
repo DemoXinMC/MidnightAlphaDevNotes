@@ -1,6 +1,6 @@
 # Added
 
-> [!NOTE] COMBAT APPROACHABILITY IN MIDNIGHT
+> **COMBAT APPROACHABILITY IN MIDNIGHT**
 > With Midnight, we aim to make gameplay clearer and easier to understand, so the path to improvement is more apparent for players at every skill level, while maintaining the depth of mastery that WoW offers.
 >We are updating every class specialization with an eye towards approachability by reducing complexity and making gameplay more intuitive. We are beginning by focusing on what makes each specialization unique and designing gameplay that matches their theme, so your character’s personality and style are reflected in how you play. Our goal is for the most appealing, visible elements of your spec to be what matter most in gameplay. That often means managing resources, tracking a few key buffs and debuffs, using ability charges strategically, and responding to important triggered effects (also known as “procs”).
 >We want to ensure that players have all the necessary information to play a spec with clearly visible prompts and indicators in the user interface. This can include changing the design of complex abilities or reducing the number of buffs or debuffs that can be active, so it’s easier to pick out the most essential information on enemy nameplates or in the Cooldown Manager.
