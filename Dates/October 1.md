@@ -1,19 +1,15 @@
-# Midnight Alpha Test Development Notes
-
----
-
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-character-level-2)**CHARACTER LEVEL**
+## **CHARACTER LEVEL**
 
 _Developers’ notes: With each phase, we encourage players to make a new template character and avoid using their previous characters as they could potentially be in a broken state. After making a new template character, make sure to talk to Questzertauren and he will prepare you for any available content._
 
 - Level 80 Character Template
 - Maximum Level: 83
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-zone-3)**ZONE**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-zone-3)**ZONE**
 
 - Eversong Woods
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-story-and-quests-4)**STORY AND QUESTS**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-story-and-quests-4)**STORY AND QUESTS**
 
 - Level-up Campaign
 - Local Stories
@@ -21,7 +17,7 @@ _Developers’ notes: With each phase, we encourage players to make a new templa
 - Arcantina: Visitor Quest 1
     - _Developers’ notes: Accessible after the completion of the Arator Campaign._
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-welcome-home-5)**WELCOME HOME**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-welcome-home-5)**WELCOME HOME**
 
 When you login, you’ll be given a quest “A House for You” which will lead you to your faction’s Neighborhood, introduce the Steward, and take you on a tour of the Neighborhood, and ultimately direct you to buy your house.
 
@@ -31,7 +27,7 @@ Once you have a house, start building! You’ll be able to find a variety of dec
 
 Please leave any feedback on the feature in the Housing feedback thread.
 
-### [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-what-to-expect-going-forward-6)**What to Expect Going Forward**
+### [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-what-to-expect-going-forward-6)**What to Expect Going Forward**
 
 During Alpha and Beta, we’ll be adding a ton more content and functionality to Housing, including:
 
@@ -44,7 +40,7 @@ During Alpha and Beta, we’ll be adding a ton more content and functionality to
 - Lumber is very much a work in progress and will be getting a lot of updates, polish, and balancing.
 - We’ll be adding tons of new decorations, profession recipes, neighborhood activities, and more content.
 
-### [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-known-issues-7)**Known Issues**
+### [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-known-issues-7)**Known Issues**
 
 There are a number of things we know about already and are actively working on and want you to be aware of ahead of time.
 
@@ -61,7 +57,7 @@ There are a number of things we know about already and are actively working on a
 - You’ll likely encounter a variety of LUA errors. It’s fine to ignore these, but occasionally you may have to relog or reload your UI.
 - There are some visual issues with various pieces of decor, rooms, and customizations.
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-dungeons-and-raid-8)**DUNGEONS AND RAID**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-dungeons-and-raid-8)**DUNGEONS AND RAID**
 
 - Windrunner Spire
 - Murder Row
@@ -69,42 +65,28 @@ There are a number of things we know about already and are actively working on a
     - Belo’ren, Child of Al’ar
     - _Developers’ notes: Speak to Nexus-Lord Donjon Rade IX in Silvermoon City, Orgrimmar, or Stormwind to be summoned to this raid encounter to test Boss Timelines, class updates, items, Boss Alerts when it becomes available, and other updates. This encounter will be removed in a future Alpha build._
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-delves-9)**DELVES**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-delves-9)**DELVES**
 
 - Collegiate Calamity
 - Parhelion Plaza
 - The Darkway
 - New delve companion: Valeera Sanguinar
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-stat-squish-10)**STAT SQUISH**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-stat-squish-10)**STAT SQUISH**
 
 - Starting in Public Alpha 1, we’ve squished numbers across the board. Like previous squishes, we are reducing values across the board, including player and creature health, damage, healing, item level, and stats on items. This squish will not affect player character levels.
     - For players logging into Public Alpha, the new character templates will reflect the expected player power from levels 80-90.
     - Known issues: Item previews in the Quest Rewards pane can show pre-squished item levels. This is just a display issue, the item will be set to the correct squished item level when it is created.
 - _Developers’ notes: We welcome your feedback as we continue to work on this feature. While the squish has been applied across the game, it’s possible some items or effects may have escaped having been squished or have been squished too harshly. Legacy content scaling has also been adjusted to compensate for the squish. Please let us know if you encounter any issues with these or other scaling content._
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-combat-approachability-in-midnight-11)**COMBAT APPROACHABILITY IN MIDNIGHT**
-
-With Midnight, we aim to make gameplay clearer and easier to understand, so the path to improvement is more apparent for players at every skill level, while maintaining the depth of mastery that WoW offers.
-
-We are updating every class specialization with an eye towards approachability by reducing complexity and making gameplay more intuitive. We are beginning by focusing on what makes each specialization unique and designing gameplay that matches their theme, so your character’s personality and style are reflected in how you play. Our goal is for the most appealing, visible elements of your spec to be what matter most in gameplay. That often means managing resources, tracking a few key buffs and debuffs, using ability charges strategically, and responding to important triggered effects (also known as “procs”).
-
-We want to ensure that players have all the necessary information to play a spec with clearly visible prompts and indicators in the user interface. This can include changing the design of complex abilities or reducing the number of buffs or debuffs that can be active, so it’s easier to pick out the most essential information on enemy nameplates or in the Cooldown Manager.
-
-We are also reviewing the amount of concentration or “cognitive load” required to play each spec. Cognitive load encompasses tasks such as keeping track of active auras, parsing conditions to choose the most effective ability in a given moment, or remembering long sequences of abilities. Some specs will demand more cognitive load than others by design. Keeping track of damage over time effects requires concentration, but is also a big part of the appeal of specs like Affliction, Feral, and Assassination! However, we are reviewing all specs for areas where concentration demands are excessive, unclear, or don’t serve enjoyable gameplay.
-
-Ultimately, our goal is that once every spec has all its new class talent points, Hero Talents, and Apex Talents, it has what we feel is a manageable, fun, and appropriately challenging level of complexity.
-
-Visit the [Developer Insight: Combat for Everyone in Midnight](https://worldofwarcraft.blizzard.com/news/24235745/) article for an in-depth look on these changes. And for more details on the combat approachability changes to healing and PvP, check out their forum threads: [Healing Changes in Midnight](https://us.forums.blizzard.com/en/wow/t/2175647) and [PvP Changes in Midnight](https://us.forums.blizzard.com/en/wow/t/2175957/).
-
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-diminishing-returns-12)**DIMINISHING RETURNS**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-diminishing-returns-11)**DIMINISHING RETURNS**
 
 - _Developers’ notes: We are making some adjustments to how diminishing returns work in World of Warcraft. “Diminishing returns” refers to the system that reduces the duration of crowd control effects if they are used repeatedly against the same target. In order to make crowd control less frustrating in PvP, players will now become immune after 2 applications of crowd control from the same category (ex. after being stunned twice, you are now immune). We felt that very low duration crowd controls were making it hard to cast spells and generally felt excessive. For PvE, we are removing the immunity after 3 stuns. Our primary goal here is to remove the need to track diminishing returns state on enemies. Instead of enforcing a hidden and complex system to reduce effectiveness of stuns, we are doing a pass on classes and making sure the amount of stuns and their durations are appropriate for combat._
 - Diminishing return categories will reset after 16 seconds (was 18 seconds).
 - Creatures will no longer be immune to stun effects after 3 applications of the effect. The duration of the stun effect will continue to diminish in half upon each application, until they reach 1/16th duration, where it will remain until 16 seconds have passed.
 - In PvP combat, players will be fully immune to a crowd control category after 2 casts (was 3).
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760#p-27834953-classes-13)**CLASSES**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007134-classes-12)**CLASSES**
 
 - The Global Interrupt duration has been increased:
     - _Developers’ notes: We would like players to have more effective tools against caster enemies, particularly in dungeons. To that end, we are increasing interrupt durations across the board in PvE content._
@@ -881,6 +863,41 @@ Visit the [Developer Insight: Combat for Everyone in Midnight](https://worldofw
             - Tactical Advantage
             - Terms of Engagement
             - Viper’s Venom
+
+---
+
+Midnight Alpha Test development notes continued in the next post.
+
+[FEEDBACK: Death Knights](https://eu.forums.blizzard.com/en/wow/t/feedback-death-knights/590290)
+
+[FEEDBACK: Havoc and Vengeance Demon Hunters](https://eu.forums.blizzard.com/en/wow/t/feedback-havoc-and-vengeance-demon-hunters/590291)
+
+[FEEDBACK: Druids](https://eu.forums.blizzard.com/en/wow/t/feedback-druids/590292)
+
+[FEEDBACK: Hunters](https://eu.forums.blizzard.com/en/wow/t/feedback-hunters/590293)
+
+[FEEDBACK: Evokers](https://eu.forums.blizzard.com/en/wow/t/feedback-evokers/590294)
+
+[FEEDBACK: Mages](https://eu.forums.blizzard.com/en/wow/t/feedback-mages/590295)
+
+[FEEDBACK: Monks](https://eu.forums.blizzard.com/en/wow/t/feedback-monks/590296)
+
+[FEEDBACK: Paladins](https://eu.forums.blizzard.com/en/wow/t/feedback-paladins/590297)
+
+[FEEDBACK: Priests](https://eu.forums.blizzard.com/en/wow/t/feedback-priests/590298)
+
+[FEEDBACK: Rogues](https://eu.forums.blizzard.com/en/wow/t/feedback-rogues/590300)
+
+[FEEDBACK: Shamans](https://eu.forums.blizzard.com/en/wow/t/feedback-shamans/590301)
+
+[FEEDBACK: Warlocks](https://eu.forums.blizzard.com/en/wow/t/feedback-warlocks/590302)
+
+[FEEDBACK: Warriors](https://eu.forums.blizzard.com/en/wow/t/feedback-warriors/590303)
+
+[Devourer Demon Hunters](https://eu.forums.blizzard.com/en/wow/t/devourer-demon-hunters/590288)
+
+[Linxy](https://eu.forums.blizzard.com/en/wow/u/Linxy) (Linxy) October 1, 2025, 1:47am 4
+
 - **MAGE**
     - **Hero Talents**
         - **Frostfire**
@@ -1673,6 +1690,13 @@ Visit the [Developer Insight: Combat for Everyone in Midnight](https://worldofw
             - Last Word
             - Psychic Horror
             - Void Torrent
+
+---
+
+Midnight Alpha Test development notes continued in the next post.
+
+[Linxy](https://eu.forums.blizzard.com/en/wow/u/Linxy) (Linxy) October 1, 2025, 1:47am 5
+
 - **ROGUE**
     - **Hero Talents**
         - **Deathstalker**
@@ -2058,7 +2082,7 @@ Visit the [Developer Insight: Combat for Everyone in Midnight](https://worldofw
         - _Developers’ notes: Unstable Affliction and Seed of Corruption are returning as Affliction’s main Soul Shard spenders. Malefic Rapture solved a lot of issues that plagued Affliction towards the end of Battle for Azeroth, however, placed a lot of emphasis on rotational setup and increased its overall complexity. Malefic Rapture constantly poses the question “when should I spend my Soul Shards?” and it’s difficult to answer given how many factors impacted its throughput. Additionally, each new damage-over-time (DoT) effect added to Affliction’s arsenal subsequently diluted the throughput of Malefic Rapture which makes it feel less impactful in settings with multiple targets. While we could have easily reduced the number of effects impacting Malefic Rapture, we wanted the answer to the question of Soul Shard spending to be “now” most of the time, outside of pooling for Darkglare._  
             _Overall, we want less conditionals to affect Affliction’s throughput to reduce setup time, increase consistency, and add clarity to when a spell should be cast. For example, Shadow Embrace has been removed, and the damage increase Unstable Affliction provided prior to Shadowlands via its Contagion talent has been omitted. Both effects further dilute the throughput of Affliction and intrude on the identity of Haunt which is to signify a priority target._  
             _Now, to address the elephant in the room: Vile Taint. While many specializations have tools to solve DoT application, DoTs do not define their moment-to-moment gameplay and shouldn’t as that is the realm of Affliction. Agony would lose a lot of texture, and throughput, if its application played out in a similar way to Corruption. In addition, there is less emphasis on having every target afflicted with Agony with the removal of Malefic Rapture as your spender’s throughput is no longer dependent on having Agony active. Since Vile Taint cannot maintain Agony on its own, we’ve removed it and replaced it with Shared Agony – an effect similar to Balance Druid’s Twin Moons. This gives us a controlled, tunable method of scaling Agony application in multi-target situations that maintains the core, DoT-centric gameplay of Affliction._  
-            _Lastly, we are introducing a new 1 minute cooldown: Dark Harvest. This is an experimental channeled spell that mirrors Malefic Rapture in some ways but instead of scaling per DoT it only needs a single DoT to maximize its throughput. Let us know what you think about this new cooldown and the other changes to Afflictions as we’re excited to hear your thoughts!_
+            _Lastly, we are changing the cooldowns of Affliction to better suit these gameplay changes. First, we are extending the cooldown of Summon Darkglare to 2 minutes (was 1 minute) to reduce the frequency in which players will want to pool Soul Shards to maximize Unstable Affliction with Darkglare. Secondly, we are introducing a new 1 minute cooldown: Dark Harvest. This is an experimental channeled spell that mirrors Malefic Rapture in some ways but instead of scaling per DoT it only needs a single DoT to maximize its throughput. Let us know what you think about this new cooldown and the other changes to Afflictions as we’re excited to hear your thoughts!_
         - Apex Talents: Shadow of Nathreza
             - Haunt now deals Shadow damage to its host and 3 enemies within 10 yards that are suffering from your Corruption over its duration.
             - Increases the initial damage of Haunt by 50%/100% and Haunt increases damage dealt to its host by an additional 2%/4%.
@@ -2355,14 +2379,14 @@ Visit the [Developer Insight: Combat for Everyone in Midnight](https://worldofw
             - Last Stand
             - Rend
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/6#p-27844070-items-1)**ITEMS**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007303-items-1)**ITEMS**
 
 - Fully collecting a class set’s appearances now unlocks all lower difficulty variants. For example, collecting all Mythic appearances will automatically unlock the Heroic, Normal, and Raid Finder variants while unlocking Heroic would only unlock Normal and Raid Finder, etc. Eligible sets will be marked as such in the set collection UI. This change is retroactive to all legacy content. Items will no longer change their appearance when upgraded.
     - _Developers’ notes: While we feel the Catalyst has been largely successful in expanding access to powerful seasonal set bonuses, it has also generated friction in its dual use as the primary source of class set appearances for many players. This friction has been further exacerbated by loot roll restrictions in situations such as participating in LFR raiding. In conjunction with this change, we want to better preserve the value and identity of item art from difficult content._
 - Acquiring a class set 4-piece bonus now unlocks a character-specific Feat of Strength that will enable Catalyst charges to drop from raid bosses, Mythic+, Bountiful Delves, and Rated PvP on that character for the remainder of the season.
     - _Developers’ notes: The decision to spend Catalyst charges can be difficult early in a season as players anticipate looting more powerful armor in the same slot in the near future. For example, catalyzing a Veteran or Champion helm may feel like a mistake knowing that a Hero helm could be around the corner in your next Mythic+ dungeon. If a player decides to spend that charge and then receives that Hero helm, it may have to sit in their bags for up to two weeks before it can effectively be equipped. This change should empower players to chase their seasonal class set bonuses early on without reservation with the knowledge that additional Catalyst charges will likely be farmable for them just several weeks into the season. In addition, armor pieces with desirable secondary stats in non-set slots such as belts and boots should feel like more viable options earlier in the season._
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/6#p-27844070-player-versus-player-2)**PLAYER VERSUS PLAYER**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007303-player-versus-player-2)**PLAYER VERSUS PLAYER**
 
 - Elite Rank is now attained at 2300 personal rating (was 2400). Additionally, this also means that correlated ranks and titles such as Legend, Strategist, and Gladiator will have their game win requirements to be at or above 2300.
     - _Developers’ notes: We’ve seen feedback around the top end PvP rewards being extremely difficult to achieve in the more recent seasons. Our goal with this adjustment is to slightly ease the requirement while still maintaining the prestige that comes with attaining these rewards and titles._
@@ -2410,14 +2434,14 @@ Visit the [Developer Insight: Combat for Everyone in Midnight](https://worldofw
     - **Restoration**
         - New PvP Talent: Master of the Elements – Casting Lava Burst increases the healing of your next Healing Wave by 30%, stacking up to 2 times. Healing Wave applies Flame Shock to a nearby enemy when empowered by Master of the Elements.
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/6#p-27844070-professions-3)**PROFESSIONS**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007303-professions-3)**PROFESSIONS**
 
 - All profession recipes and gathering nodes are available.
 - Lowered the number of qualities for stackable reagents and consumables to 2 (was 3).
     - _Developers’ notes: One goal of having qualities is so that players who invest time and effort into their professions can produce more valuable goods. We believe that, as far as reagents and consumables are concerned, this goal is better accomplished by having 2 qualities, normal quality and high quality, with the added benefit of simplifying the system a little._
 - Fractured Sparks no longer need to be combined into whole Sparks before they can be used in crafting. Whole Sparks drop instead of Fractured Sparks and Spark costs have doubled.
 
-## [](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/6#p-27844070-user-interface-and-accessibility-4)**USER INTERFACE AND ACCESSIBILITY**
+## [](https://www.wowhead.com/news/midnight-alpha-development-notes-378688#p-6007303-user-interface-and-accessibility-4)**USER INTERFACE AND ACCESSIBILITY**
 
 - **NEW INTERFACE: JOURNEYS**
     - A new tab called Journeys has been added to the Adventure Guide. This tab will help players track their Renown, Delves, Prey, and Great Vault reward progress.
